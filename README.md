@@ -23,6 +23,8 @@ In a PHP environment, run the "install.php" file
 
 ## Built With
 
+* HTML
+* CSS
 * Javascript
 * PHP
 
