@@ -1,6 +1,6 @@
 # Web-crawler-bot
 
-It can be interesting to track search engine robots like Google bots when they are scanning your website, however sometimes these bots don't crawl every part of your website which can decrease your traffic. With This bot you will get accurate results of your site analytics and optimize your source code for faster speed. 
+It can be amazing to track search engine robots like Google bots when they are scanning your website, however sometimes these bots don't crawl every part of your website which can decrease your traffic. With This bot you will get accurate results of your site analytics and optimize your source code for faster speed. 
 
 ## Getting started
 
